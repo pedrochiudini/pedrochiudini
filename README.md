@@ -1,4 +1,4 @@
-## Oláa, me chamo Pedro Chiudini
+## Olá, me chamo Pedro Chiudini
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrochiudini&show_icons=true&theme=tokyonight" />
